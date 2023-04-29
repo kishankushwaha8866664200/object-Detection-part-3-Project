@@ -1,0 +1,14 @@
+.heading{
+    border-radius: 20px;
+    width: 60%;
+    font-size: 18px;
+
+    background: white;
+margin-bottom: 100px;
+}
+
+.btnobj{
+    width: 30%;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
